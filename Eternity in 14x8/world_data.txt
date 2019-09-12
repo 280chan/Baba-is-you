@@ -1,0 +1,7 @@
+[levels]
+levelid=1
+
+[general]
+firstlevel=1level
+start=1level
+name=eternity in 14x8
